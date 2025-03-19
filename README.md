@@ -48,3 +48,65 @@ if user data exist then login success
 ## Milestone 8:
 
 In this milestone created the product page with the static data and using the tailwindcss
+
+## Milestone 9:
+
+create the form for products
+
+## Milestone 10:
+
+Build the end point to receive product data
+
+## Milestone 11:
+
+Write an endpoint that will send all products data to frontend In frontend write an function to get all the data Display these data dynamically passing to product card component
+
+## Milestone 12:
+
+Write an endpoint that will send all products with user mail to frontend In frontend write an function to get all the data Display these data dynamically passing to product card component
+
+## Milestone 13:
+
+Write an endpoint that will receive new data and update the existing data inside MondoDB. In frontend we will add an edit button to the product card. When click on edit we will send the data to form and make it auto fill and have option to edit those data and save.
+
+## Milestone 14:
+
+Write an endpoint that will Delete the data form MongoDB using ID. In frontend we will add an delete button to the product card. When click on delete button we will send the product id to server endpoint.
+
+## Milestone 15:
+
+Create an new Nav component with links to all pages:
+
+Home
+My-products
+Add product
+cart
+Make the Navbar responsive to all screen sizes.
+
+## Milestone 16:
+
+Create an new page that display all the product data
+
+## Milestone 17:
+
+Write the cart schema to store products
+Write an endpoint to store receive and store product details in cart
+
+## Milestone 18:
+
+Create an Backend endpoint for cart page
+Write and endpoint to get products inside cart for user
+
+## Milestone 19:
+
+create cart frontend page and display the products
+For each product add an option to increase and decrease quantity using + and - buttons.
+Create an Backend endpoint for increase and decrease quantity
+
+## Milestone 20:
+
+Create an Backend endpoint that will sent user data
+create frontend profile page
+display profile photo, name and email in one section
+In another section display address and add an button called "Add address"
+If there are no address display "No address found"
